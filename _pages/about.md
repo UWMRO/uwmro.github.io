@@ -13,13 +13,30 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
+Manastash Ridge Observatory (MRO) is used by the University of Washington Department of Astronomy for undergraduate education. It is not typically open to the public, in part due to its location on a ridge above Ellensburg, Washington. This site chosen in the 1970s to give UW students access to the dry and dark skies available on the eastern slopes of the Cascades. Owing to its remote location, the observatory was built with its own water supply and accommodations sufficient for groups of students to stay for multiple night observing runs.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Underneath an [Ash Dome](http://www.ashdome.com/) sits a [30" Boller and Chivens telescope](https://bollerandchivens.com/?p=1105). They would look familiar to anyone who has used MRO since it was dedicated in 1972, but many other things have changed since then. Originally observers used photographic plates to record their images, but now we rely on computers and digital CCD cameras. You can read the history, and some of the best stories, on the [MRO 40th Anniversary page](http://depts.washington.edu/astron/old_port/MRO/index.html).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Today we work to involve UW Astronomy undergraduates in all operations of the facility.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- The [Best of MRO photo album](https://photos.app.goo.gl/qF1D4G1Ctw6QgSDG9) features many of their pictures!
+
+- The observatory is in a beautiful location, see it from the  [MRO Webcam Live View](http://depts.washington.edu/mrouser/webcams/).
+
+- We have worked to [reduce our power and water use](https://green.uw.edu/blog/2016-03/uws-manastash-ridge-observatory-gets-sustainability-overhaul).
+
+- Our students were featured on a KNKX's radio show: [Manastash Ridge Observatory teaches UW students about space — and themselves](https://www.knkx.org/post/manastash-ridge-observatory-teaches-uw-students-about-space-and-themselves).
+
+Our current instrumentation includes:
+
+- An Andor thermo-electrically cooled CCD camera.
+
+- A filter wheel (designed and built by UW students) with Sloan, Johnson-Cousins, H-alpha, and other filters available.
+
+- UW students also designed and built a new backend for the telescope which provides a mount for this equipment.
+
+The observatory was built in 1971 at the initiative of George Wallerstein, the first chair of the UW Astronomy Department. Construction was funded by grants from the National Science Foundation, as well as by funds from the state of Washington. The current instrumentation was designed and continues to be integrated with the telescope by the Astronomy Undergraduate Engineering Group, thanks in part to funding from the UW Student Technology Fee. Along with funding from the UW Campus Sustainability Fund, this work will help ensure MRO is productive for years to come. Central Washington University generously provides us with internet access via a microwave link.

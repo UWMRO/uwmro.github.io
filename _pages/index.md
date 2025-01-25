@@ -1,9 +1,10 @@
+---
 layout: about
 title: about
 permalink: /about/
 nav: true
 nav_order: 9
-
+---
 Manastash Ridge Observatory (MRO) is used by the University of Washington Department of Astronomy for undergraduate education. It is not typically open to the public, in part due to its location on a ridge above Ellensburg, Washington. This site chosen in the 1970s to give UW students access to the dry and dark skies available on the eastern slopes of the Cascades. Owing to its remote location, the observatory was built with its own water supply and accommodations sufficient for groups of students to stay for multiple night observing runs.
 
 Underneath an [Ash Dome](http://www.ashdome.com/) sits a [30" Boller and Chivens telescope](https://bollerandchivens.com/?p=1105). They would look familiar to anyone who has used MRO since it was dedicated in 1972, but many other things have changed since then. Originally observers used photographic plates to record their images, but now we rely on computers and digital CCD cameras. You can read the history, and some of the best stories, on the [MRO 40th Anniversary page](http://depts.washington.edu/astron/old_port/MRO/index.html).

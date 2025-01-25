@@ -1,7 +1,9 @@
 ---
 layout: page
 title: about
-permalink: /
+permalink: /about/
+nav: true
+nav_order: 9
 ---
 Manastash Ridge Observatory (MRO) is used by the University of Washington Department of Astronomy for undergraduate education. It is not typically open to the public, in part due to its location on a ridge above Ellensburg, Washington. This site chosen in the 1970s to give UW students access to the dry and dark skies available on the eastern slopes of the Cascades. Owing to its remote location, the observatory was built with its own water supply and accommodations sufficient for groups of students to stay for multiple night observing runs.
 

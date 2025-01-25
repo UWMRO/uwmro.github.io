@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /checklist/
+title: Checklist
+description: MRO Checklist
+nav: true
+nav_order: 6
+---
+
 Last Updated: May 28, 2023
 
 This is a brief summary and checklist of the procedures you need to follow when observing at MRO. Observers should contact MRO staff prior to use of the telescope for the very latest information . If you are reading a printed copy, please check the revision date at the top against the latest version at,

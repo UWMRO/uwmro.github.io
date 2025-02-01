@@ -3,7 +3,7 @@ layout: page
 permalink: /info/
 title: Information for Observers
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 The 30" Boller and Chivens Ritchey-Chretian telescope, focal reducing optics, and the Evora science camera produce a field of view of 8 x 8 arcminutes and a plate scale (with 2 x 2 binning) of 0.93 "/pixel.
 

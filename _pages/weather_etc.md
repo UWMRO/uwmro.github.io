@@ -4,7 +4,7 @@ permalink: /weather/
 title: Weather
 description: Weather
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 [Live Weather Data](https://ambientweather.net/share/37UeMl)
 

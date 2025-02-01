@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /info/
-title: Information for Observers
+title: Information
+descrption: Information for Observers
 nav: true
 nav_order: 3
 ---

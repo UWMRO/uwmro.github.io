@@ -1,3 +1,11 @@
+---
+layout: page
+permalink: /weather/
+title: Weather
+description: Weather
+nav: true
+nav_order: 5
+---
 [Live Weather Data](https://ambientweather.net/share/37UeMl)
 
 [Weather Underground](https://www.wunderground.com/dashboard/pws/KWAELLEN214)

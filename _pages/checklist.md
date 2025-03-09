@@ -2,9 +2,8 @@
 layout: page
 permalink: /checklist/
 title: Checklist
-description: MRO Checklist
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 Last Updated: May 28, 2023

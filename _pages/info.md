@@ -66,7 +66,7 @@ At **14.7 miles** you have just passed a big yellow DNR gate and will be almost 
 
 Congratulations! You've made it to MRO -- enjoy your stay!!
 
-![map](assets/img/MRO_Map.jpeg)
+![map](../../assets/img/MRO_Map.jpeg)
 
 Note that Riggs Canyon Road (through Wheeler Canyon) has been closed to vehicle traffic since July 2007, but remains accessible for hiking. It is significantly shorter, steeper, and rockier than the south road. If you need to reach (or leave!) MRO on foot you should consider this route.
 

@@ -10,7 +10,7 @@ This template has a built-in light/dark mode. It detects the user preferred colo
 
 Pages are generated from the [Markdown](https://www.markdownguide.org/basic-syntax/) files in the `_pages` directory. It's easiest to copy an existing page to create a new page. Site deploys automatically when you push changes. Note that each deployment runs the following code checks:
 
-- [Prettier](https://prettier.io/) - check the formatting of the code *attempting to disable*
+- [Prettier](https://prettier.io/) - check the formatting of the code **disabled**
 - [lychee](https://lychee.cli.rs/) - check for broken links
 
 Errors from prettier are fixed by running 'npx prettier -w [file]' and pushing the new file (easiest to do on Analysis after installing the [Shopify Liquid Prettier Plugin](https://www.npmjs.com/package/@shopify/prettier-plugin-liquid)).

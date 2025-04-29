@@ -13,7 +13,7 @@ Pages are generated from the [Markdown](https://www.markdownguide.org/basic-synt
 - [Prettier](https://prettier.io/) - check if the formatting of the code follows the style guide
 - [lychee](https://lychee.cli.rs/) - check for broken links
 
-Errors from prettier are fixed by running 'prettier [file] --write' and pushing the new file (easiest to do on Analysis after installing the [Shopify Liquid Prettier Plugin](https://www.npmjs.com/package/@shopify/prettier-plugin-liquid)).
+Errors from prettier are fixed by running 'npx prettier -w [file]' and pushing the new file (easiest to do on Analysis after installing the [Shopify Liquid Prettier Plugin](https://www.npmjs.com/package/@shopify/prettier-plugin-liquid)).
 
 Code syntax highlighting using [GitHub style](https://github.com/jwarby/jekyll-pygments-themes). Math typesetting supported through [MathJax](https://www.mathjax.org/), with additional support for [chartjs charts](https://www.chartjs.org/), [mermaid diagrams](https://mermaid-js.github.io/mermaid/#/), and [TikZ figures](https://tikzjax.com/).
 

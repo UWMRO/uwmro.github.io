@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-Last Updated: June 11, 2025
+Last Updated: June 12, 2025
 
 This is a brief summary of the procedures you need to follow when observing at MRO. Observers should contact MRO staff prior to use of the telescope for the very latest information . If you are reading a printed copy, please check the revision date at the top against the latest version at [https://uwmro.github.io/checklist/](https://uwmro.github.io/checklist/).
 
@@ -32,21 +32,21 @@ Humidity in excess of 95%;
 
 Weather data for wind speed and humidity are available from the wireless station located to the left of the control room monitors. Data for (Temperature - Dewpoint) are available from the same station. If sustained wind speeds exceed 20MPH, or you are experiencing gusts in excess of 35MPH, you should work with the telescope dome opening pointed downwind (away from the direction that the wind is blowing from).
 
-1. ____ **Prepare the camera.** On the left control room computer, click the Evora bookmark in the browser (you can also navigate to http://72.233.250.83/ from any machine on the network).  Initialize the camera, set it's temperature to -82 degrees, and press *Set*. It should take approximately ten minutes for the camera to indicate this temperature, but possibly half an hour till it's stable. 
+1. ____ **Prepare the camera.** On the left-hand control room computer, click the MRO Camera Controls bookmark in Firefox (you can also navigate to [http://72.233.250.83/](http://72.233.250.83/) from any machine on the network). Initialize the camera, set it's temperature to -82 degrees, and press *Set*. It should take approximately ten minutes for the camera to indicate this temperature, but possibly half an hour till it's stable. 
 
-2. ____ **Setup the Filter Wheel.**  In *Evora* press *Home* to prepare the filter wheel for use. 
+2. ____ **Setup the filter wheel.**  Under *Filters*, press *Home* to prepare the filter wheel for use. 
 
-3. ____ **Initialize the Telescope.** TK Remote Desktop TK, launch *SiTech.exe*, and click *SkyView*. Turn on the telescope with the key on the RA skirt. After several seconds, TK does anything change on the F1? TK
+3. ____ **Power on the Telescope.** On the right-hand control room computer, start Remmina and double-click to connect to the F1 Computer. If necessary, open *SiTech.exe* and click *SkyView*. Turn on the telescope with the key on the RA skirt (you will hear a relay *clunk*).
 
 4. ____ **Open the dome at about sunset.**   From the power unit in the northeast corner of the dome, plug the upper shutter power cable (round end) into the appropriate socket located below the dome motor; you will need to rotate the plug, as well as rotate its locking ring to fully seal it into position. Once it is connected, push and hold the upper shutter control switch to open the upper door. After the upper shutter has moved a few inches, you can open the lower shutter by plugging in its (standard 3-prong) power cord and pushing on the lower shutter power switch located on the righthand side of the dome motor until the lower shutter is fully deployed. Unplug the 3-prong power cord when the lower half is fully deployed. The upper shutter will stop automatically, at which point you can unplug its power cord. Restow the cables using the carabiners attached to each power cord. Each of the carabiners should snap onto the U bracket which is mounted above the dome shutter motor -- make sure the plugs don't hang down, otherwise they might get caught as the dome rotates.
 
-5. ____ **Update the telescopes coordinates.**  If the telescope has been properly parked, it will be pointed at zenith. If you're not sure, use the bubble level and the hand paddle to bring to telescope to zenith. Resist the urge to make small adjustments--if the telescope appears to be very near zenith, it was almost certainly properly parked! ONLY correct for gross offsets, as you will fine tune the pointing at a later stage. After you have confirmed that the telescope is pointed at zenith, zoom-in to zenith in SkyView, right-click, choose "Goto or Sync", Sync, and OK, to update the telescope's  coordinates. The telescope will start tracking with the RA set to the LST and Dec set to the latitude of MRO: 46:57:04.2.
+5. ____ **Initialize telescope to zenith.**  If the telescope has been properly parked, it will be pointed at zenith. If you're not sure, use the bubble level and the hand paddle to bring to telescope to zenith. Resist the urge to make small adjustments--if the telescope appears to be very near zenith, it was almost certainly properly parked! After you have confirmed that the telescope is pointed at zenith, update the telescope's coordinates by clicking *Initialize to Zenith* in *Telescope Controls* on the left-hand computer (it's okay to click on OK in the dialog box that will appear on the right hand computer). The telescope will start tracking, so unless you're about to slew to a star, click STOP.
 
-6. ____ **Remove the telescope covers.**  Move the telescope to cover position with the *Slew to Cover Position* button. **Make sure the data cables are free to move before moving the telescope. ALWAYS watch the lines when moving the telescope!!!** Use the ladder on the southeast end of the dome floor to remove the cover to the main telescope, as well as the 6" finder on the east side of the telescope. Store both covers on the table south of the telescope pier. TK does it track in cover position TK
+6. ____ **Remove the telescope covers.**  Move the telescope to cover position with the *Slew to Cover Position* button. **Make sure the data cables are free to move before moving the telescope. ALWAYS watch the lines when moving the telescope!!!** Use the ladder on the southeast end of the dome floor to remove the cover to the main telescope, as well as the 6" finder on the east side of the telescope. Store both covers on the table south of the telescope pier.
 
 7. ____ **Take bias exposures.**  A bias exposure at this time will verify that the camera has cooled down and is functioning properly. If all is well, continue.
 
-8. ____ **Take flats.**  Move the telescope approximately 20 degrees east of the zenith (west for morning flats). For dome flats, keep the telescope in Cover position and point the incandescent lamp on the desk down to the floor. 
+8. ____ **Take flats.** Take sky flats pointed approximately 20 degrees east of the zenith (west for morning flats). Take dome flats in Cover Position using the incandescent desk lamp pointed down to the floor. 
 
 15. ____ **Fine tune the telescope pointing.**  Load the list of bright stars for pointing ("pointing_stars.txt") in *Bifrost*, select your target, turn on tracking, slew, and then center the star in your field of view. Update the telescope's pointing with the *Update Pointing to Target* button. If the telescope was not parked properly, or the zenith was not set properly, your target may not appear in the camera's field of view initially. If this happens, use the 6" finder telescope on the east side of the telescope to center the star so that you can image it with your camera. Then center the star and update pointing as described above.
 

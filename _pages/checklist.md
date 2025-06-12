@@ -48,19 +48,19 @@ Weather data for wind speed and humidity are available from the wireless station
 
 8. ____ **Take flats.** Take sky flats pointed approximately 20 degrees east of the zenith (west for morning flats). Take dome flats in Cover Position using the incandescent desk lamp pointed down to the floor. 
 
-9. ____ **Fine tune the telescope pointing on a bright star.** Vega is a fine target for much of the summer. Find your target in *SkyView* (Ctrl-f), and slew by (left-) clicking and choosing GoTo. If your target does not appear in the ccd's field of view, use the finder to center the star until you can image it with Evora camera. Center the star in the ccd, and update the telescope's pointing by again (left-) clicking, but this time choosing Sync.
+9. ____ **Fine tune the telescope pointing on a bright star.** Vega is a fine target for much of the summer. Find your target in *SkyView* (Ctrl-f), and slew by (left-) clicking and choosing GoTo. If your target does not appear in the ccd's field of view, use the finder to center the star until you can image it with Evora camera. Center the star in the ccd, and update the telescope's pointing by again clicking on it, but this time choose Sync.
 
-10. ____ **Focus the telescope on a faint star.**  Move the telescope to a dimmer star in the finder, then take images and adjust focus to minimize the PSF. A reasonable focus move for donuts is 9000, then 3000 as you get closer, then fine tune by 1500 steps. Note that as the temperature changes over the course of the night, the best focus position will also change, which may necessitate a refocusing of the instrument.
+10. ____ **Focus the telescope on a faint star.**  Move the telescope to a dimmer star in the finder, then take images and adjust focus to minimize the PSF. 9000 is a reasonable move for donuts, 3000 is best when you can see stars. 1500 is the smallest reasonable move, only for fine tuning. Note that the focus position will change as the temperature changes over the course of the night, which may necessitate refocusing.
 
 21. ____ **Take your images.**  Remember to watch the lines when slewing, and go outside and check the sky on a regular basis.
 
 22. ____ **At the end of the night, shutdown the camera and close Evora.** Select *Shutdown* in *MRO Camera Controls*.  
 
-13. ____ **Cover and park the telescope.**  Use the *Go to Cover Position* button and carefully replace the telescope covers, then press *Go to Park* to move the telescope back to the parked (zenith) position.
+13. ____ **Cover and park the telescope.**  Use the *Go to Cover Position* button and carefully replace the telescope covers. Then press *Go to Park* to move the telescope back to the parked (zenith) position.
 
-14. ____ **Turn off the telescope.**  The key is on the telescope skirt.
+14. ____ **Turn off the telescope.**  Use the key on the telescope's RA skirt.
 
-15. ____ **Close the dome.**  Use the hand control paddle to rotate the dome to its home position. Plug in both cables and close the shutters. The lower shutter must be fully closed before the upper shutter reach it. The upper shutter will stop automatically when it's fully closed. Unplug both cables. 
+15. ____ **Close the dome.**  Rotate the dome to its home position. Plug in both cables and close the shutters. The lower shutter must be fully closed before the upper shutter reaches it. The upper shutter will stop automatically when it's fully closed. Unplug both cables. 
 
 ## Leaving the Observatory
 When you get ready to leave the observatory, first clean up: 

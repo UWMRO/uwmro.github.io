@@ -8,15 +8,27 @@ nav_order: 2
 
 Last Updated: June 11, 2025
 
-This is a brief summary and checklist of the procedures you need to follow when observing at MRO. Observers should contact MRO staff prior to use of the telescope for the very latest information . If you are reading a printed copy, please check the revision date at the top against the latest version at,
+This is a brief summary of the procedures you need to follow when observing at MRO. Observers should contact MRO staff prior to use of the telescope for the very latest information . If you are reading a printed copy, please check the revision date at the top against the latest version at,
 
 https://sites.google.com/a/uw.edu/mro/checklist
-## Initial Comments
-### SEPTIC SYSTEM
 
-Our septic system is a secret superhero, but its superpowers are limited to naturally occurring materials (and toilet paper). Do *not* put wipes or anything else into the system, or else you may experience what life was like before flushing toilets.
+### Arrival Checklist
 
-### TELESCOPE CLOSURE CONDITIONS
+1. ____ **Log the level of the water tank.** The light to the water tank room is (most inconveniently!) located on the left side of the doorway. Measure the water level by opening the valve to the gauge marked "**in. H2O**", which is located just above the water pump. The clear tubing will also match the level in the tank.
+
+2. ____ **Prepare heat and air conditioning.** Turn on the furnace with the "Master Control Switch" on the front of the furnace.
+
+4. The furnace will provide baseline heat, and turn on thermostats in each room on the north side of the observatory. The thermostats for the day room and the bedrooms have both a temperature set point and an on/off switch on the side. If you need more heat, turn the thermostat on (if necessary) and set the heat to your liking. If the daytime outside temperature is above about 85 degrees, you can turn on the air conditioner: Uncover the vents in the covered area on the outside of the building (just north of the main entrance) and then turn on the AC circuit breakers. Remember to replace the covers before you leave MRO.
+
+5. ____ **Prepare the water system.**  Turn on the water pump with circuit breaker 8 on panel M. Flush both toilets, which helps avoid the dreaded sewer backup.
+
+Note: Our septic system is a secret superhero, but its superpowers are limited to naturally occurring materials (and toilet paper). Do *not* put wipes or anything else into the system, or else you may experience what life was like before flushing toilets.
+
+Remember to check the level of the water tank on a daily basis so as to avoid the (also dreaded) low water alarm. Refill if the tank goes below 1/4 of the way full; instructions for filling the tank are taped to the front of the tank itself. At the end of your trip finalize your log entry and compute how much water your group used.
+
+4. ____ **Prime the kitchen faucet.**  Open the sink cabinet and place the tubing into the blue jug. Pump water with the footpump
+
+## Observing Checklist
 
 Weather conditions can make it unsafe to operate the telescope and its instruments. Cover the telescope mirrors and close the dome if any of the following weather conditions arise:
 
@@ -27,15 +39,6 @@ Humidity in excess of 95%;
 (Temperature - Dew Point) < 5° F.
 
 Weather data for wind speed and humidity are available from the wireless station located to the left of the control room monitors. Data for (Temperature - Dewpoint) are available from the same station. If sustained wind speeds exceed 20MPH, or you are experiencing gusts in excess of 35MPH, you should work with the telescope dome opening pointed downwind (away from the direction that the wind is blowing from).
-
-## MRO Checklist
-1. ____ **Log the level of the water tank.** The light to the water tank room is (most inconveniently!) located on the left side of the doorway. Measure the water level by opening the valve to the gauge marked "**in. H2O**", which is located just above the water pump. The clear tubing will also match the level in the tank.
-
-2. ____ **Prepare heat and air conditioning.** Turn on the furnace with the "Master Control Switch" on the front of the furnace. The furnace will provide baseline heat, and turn on thermostats in each room on the north side of the observatory. The thermostats for the day room and the bedrooms have both a temperature set point and an on/off switch on the side. If you need more heat, turn the thermostat on (if necessary) and set the heat to your liking. If the daytime outside temperature is above about 85 degrees, you can turn on the air conditioner: Uncover the vents in the covered area on the outside of the building (just north of the main entrance) and then turn on the AC circuit breakers. Remember to replace the covers before you leave MRO.
-
-3. ____ **Prepare the water system.**  Turn on the water pump with circuit breaker 8 on panel M. Flush both toilets, which helps avoid the dreaded sewer backup. Remember to check the level of the water tank on a daily basis so as to avoid the (also dreaded) low water alarm. Refill if the tank goes below 1/4 of the way full; instructions for filling the tank are taped to the front of the tank itself. At the end of your trip finalize your log entry and compute how much water your group used.
-
-4. ____ **Prime the kitchen faucet.**  Open the sink cabinet and place the tubing into the blue jug. Pump water with the footpump
 
 5. ____ **Prepare the camera.** On the left control room computer, click the Evora bookmark in the browser (you can also navigate to http://72.233.250.83/ from any machine on the network).  Initialize the camera, set it's temperature to -82 degrees, and press *Set*. It should take approximately ten minutes for the camera to indicate this temperature, but possibly half an hour till it's stable. 
 

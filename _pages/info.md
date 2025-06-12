@@ -8,11 +8,11 @@ nav_order: 3
 ---
 The 30" Boller and Chivens Ritchey-Chretian telescope, focal reducing optics, and the Evora science camera produce a field of view of 8 x 8 arcminutes and a plate scale (with 2 x 2 binning) of 0.93 "/pixel.
 
-The observatory is located approximately 9 miles West-Southwest of Ellensburg, WA at an altitude of 3930' (1198 m), a longitude of 120.7278 degrees West, and a latitude of +46.9528 degrees. The facility offers a full kitchen and a grill. Although there is running (cold) water, observers should plan on bringing drinking water.
+The observatory is located approximately 9 miles West-Southwest of Ellensburg, WA at an altitude of 3930' (1198 m), a longitude of 120.7278 degrees West, and a latitude of +46.9528 degrees. It's about 3 hours from UW in Seattle to the doorway of MRO. Please note that the last 15 miles of the road are unpaved, and have potentially dangerous turns and road hazards (cows are possible!). Please drive slowly and carefully On your way, stop in Cle Elum at Owen's Meat where you'll find the finest brats and steaks outside of Texas, and the finest beef jerky on the planet. And yes, in addition to a full kitchen, MRO has a grill.
 
 The observatory is usually open by mid-May and stays open through September. The observing class, Astro 481, has priority for much of the time from late June through the middle of August, but for other times please contact [Oliver Fraser](ojf@uw.edu) with your observing proposal!
 
-Safety Checklist
+### Safety Checklist
 - First Aid kits are located in the kitchen, on the telescope pier, and in the safety kit. The kitchen kit includes small amounts of over-the-counter pain medication, eye wash, and even a snake bite kit. The medicine cabinets in each bathroom have other supplies you may need.
 
 - Keep the gate locked so animals don't get trapped within the fence, and so you can choose who visits you.
@@ -27,13 +27,10 @@ Safety Checklist
 
 - In case of any accident, report it to the observatory staff.
 
-Things to Do
+### Things to Do
 MRO has games, books, movies, a fantastic record collection, and the internet. You can bake brownies in the 8"x8" pan, practice your origami, or catch up on your summer reading list. Hiking in the surrounding area requires hardy shoes, a buddy, and bright clothing (hunting season is late summer, but you should always be obvious to other animals, including humans!). Many of the best features of the observatory are thanks to our undergraduate users, so if something looks like it needs attention, and it's within your skill level, dive in! For examples, the path to the deck has gotten a little overgrown, but we have pruners, "rock paint" and brushes in the workshop). If you'd like a more ambitious project, Oliver has ideas!
 
-Travel
-It's about 3 hours from UW in Seattle to the doorway of MRO. Please note that the last 15 miles of the road are unpaved, and have potentially dangerous turns and sometimes washouts. Please drive slowly and carefully! On your way, stop in Cle Elum at Owen's Meat where you'll find the finest brats and steaks outside of Texas, and the finest beef jerky on the planet. And yes, MRO has a grill.
-
-Directions
+### Directions
 The map below shows many useful landmarks mentioned in the directions below. You may wish to supplement these directions with a better map, but do not depend on online resources as you are driving. Most people find that their phones do not have service on many parts of the route, and driving directions do not replace knowledge of the landmarks below.
 
 - [OpenStreetMap](https://www.openstreetmap.org/search?query=Manastash%20Ridge%20Observatory%2C%20WA#map=15/46.9573/-120.7179) seems to have the best road map of the area.  

@@ -14,6 +14,8 @@ This is a brief summary of the procedures you need to follow when observing at M
 
 Note: Our septic system is a secret superhero, but its superpowers are limited to naturally occurring materials (and toilet paper). Do *not* put wipes or anything else into the system, or else you may experience what life was like before flushing toilets.
 
+Second Note: Propane should always be kept *outside*. If you use the grill it's okay to leave it outside during your stay, but never bring the propane inside the building. 
+
 1. ____ **Log the level of the water tank.** The light to the water tank room is (most inconveniently!) located on the left side of the doorway. Measure the water level by opening the valve to the gauge marked "**in. H2O**", which is located just above the water pump. The clear tubing will also match the level in the tank.
 
 2. ____ **Prepare heat and air conditioning.** Turn on the furnace with the "Master Control Switch" on the front of the furnace. The furnace will heat to 65 degrees, and turn on thermostats in each room. If you need more heat, turn the thermostat on (if necessary) and set the heat to your liking. If the daytime outside temperature is above about 85 degrees, you can turn on the air conditioner: Uncover the vents in the covered area on the outside of the building (just north of the main entrance) and then turn on the AC circuit breakers. Remember to replace the covers before you leave MRO.
@@ -54,37 +56,31 @@ Weather data for wind speed and humidity are available from the wireless station
 
 21. ____ **Take your images.**  Remember to watch the lines when slewing, and go outside and check the sky on a regular basis.
 
-22. ____ **At the end of the night, shutdown the camera and close Evora.** Select *Shutdown* in *MRO Camera Controls*.  
+22. ____ **At the end of the night, shutdown the camera.** Select *Shutdown* in *MRO Camera Controls*.  
 
-13. ____ **Cover and park the telescope.**  Use the *Go to Cover Position* button and carefully replace the telescope covers. Then press *Go to Park* to move the telescope back to the parked (zenith) position.
+13. ____ **Cover and park the telescope.**  Use the *Go to Cover Position* button and carefully replace the telescope covers. The 30" cover no longer fits into the tube, that's okay. Use *Go to Park* to move the telescope back to the parked (zenith) position.
 
-14. ____ **Turn off the telescope.**  Use the key on the telescope's RA skirt.
+14. ____ **Turn off the telescope.**  Turn off motor power with the key on the telescope's RA skirt. Most equipment in the telescope's mount will remain powered on, but the F1's motor board status lights should "go into blinky".
 
 15. ____ **Close the dome.**  Rotate the dome to its home position. Plug in both cables and close the shutters. The lower shutter must be fully closed before the upper shutter reaches it. The upper shutter will stop automatically when it's fully closed. Unplug both cables. 
 
-## Leaving the Observatory
-When you get ready to leave the observatory, first clean up: 
+## Departure Checklist
 
-1. Carefully put away any books, games, and all LPs.
+Carefully go through these lists of tasks, which keep the telescope and the observatory safe and in working order. MRO users are liable for any and all damages to the equipment caused by failure to properly follow these guidelines.
 
-2. Wash any dishes or other kitchen items you have used.
+1. ____ **Secure the Telescope.** It should already be secured, but double-check that telescope motor power is off (with the key, lights will be "blinky") and Evora has been shutdown. If you haven't already, now is a good time to take a copy of your data.
 
-3. Clean the restrooms and dayroom. This is not an option! Toilets and sinks need to be cleaned before you leave. Floors need to be swept. Try to leave the observatory cleaner than it was when you arrived!
+2. ____ **Clean the Observatory.** Aim to leave the observatory cleaner than you found it. If you took anything out, make sure it's put away.
 
-4. Measure the water level and write a log entry for your departure. Note if the next group should plan to restock any paper products, etc.
+
+Clean the restrooms and dayroom. This is not an option! Toilets and sinks need to be cleaned before you leave. Floors need to be swept. Try to leave the observatory cleaner than it was when you arrived!
 
 5. Collect the garbage and all recyclable goods and take them back with you. You may deposit your trash and all recycling in appropriate bins located in the Physics/Astronomy loading dock. Remember that there are trash cans in the restrooms which need to be emptied!
 
-Then carefully go through these lists of tasks which keep the telescope and the observatory safe and in working order. Please note that MRO users are liable for any and all damages to the equipment caused by failures to properly follow these guidelines; violations of MRO policies will be reviewed by the MRO Director for possible corrective measures.
+3.____ **Secure the Observatory.**
 
-### Telescope Items:
-1. Confirm that the telescope power is off--check the key on the RA skirt.
+4. Measure the water level and write a log entry for your departure. Note if the next group should plan to restock any paper products, etc.
 
-2. Confirm that the camera is shutdown.
-
-3. Confirm that you have a copy of your data.
-
-### Observatory Items:
 1. Turn off the water pump circuit breaker.
 
 1. Unplug small appliances (toaster, space heaters, coffee maker, etc.)
@@ -92,8 +88,6 @@ Then carefully go through these lists of tasks which keep the telescope and the 
 1. Remove the tube from the water jug under the sink and seal the water jug.
 
 2. If you turned on the air conditioning, turn it off, and cover the vents.
-
-3. Turn all thermostats off.
 
 4. 5. Secure the propane: turn off at the tank, disconnect, store out of sight outside, under the air conditioning vents. Grill goes indoors.
 

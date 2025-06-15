@@ -12,5 +12,5 @@ children:
     permalink: /camera/
   - title: divider
   - title: Dome Paddle
-    permalink: /paddle/
+    permalink: /domepaddle/
 ---

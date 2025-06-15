@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-Last Updated: June 12, 2025
+Last Updated: June 14, 2025
 
 This is a brief summary of the procedures you need to follow when observing at MRO. Observers should contact MRO staff prior to use of the telescope for the very latest information . If you are reading a printed copy, please check the revision date at the top against the latest version at [https://uwmro.github.io/checklist/](https://uwmro.github.io/checklist/).
 
@@ -68,7 +68,7 @@ Weather data for wind speed and humidity are available from the wireless station
 
 Carefully go through these lists of tasks, which keep the telescope and the observatory safe and in working order. MRO users are liable for any and all damages to the equipment caused by failure to properly follow these guidelines.
 
-1. ____ **Secure the Telescope.** You likely already turned off power to the telescope's motors, but double-check that it's off (The lights on the F1 should be "blinky") and Evora has been shutdown. If you haven't already, now is a good time to take a copy of your data.
+1. ____ **Secure the Telescope.** You likely already turned off power to the telescope's motors, but double-check. The power to equipment in the mount should remain on, but the lights on the F1 should be "in blinky"). Confirm that Evora has been shutdown. If you haven't already, now is a good time to take a copy of your data.
 
 2. ____ **Clean the Observatory.** Aim to leave the observatory cleaner than you found it. Sweep from top to bottom. Clean up and wipe down the kitchen, the dining table, and the day room so there are no food particles left out to attract critters. Wipe down the  stove, microwave, counter, and sink. Scrub the bathrooms. Collect all the garbage and recycling to dispose of in the PAB loading dock.
 
@@ -76,17 +76,17 @@ Carefully go through these lists of tasks, which keep the telescope and the obse
 
 - Turn off power strip to the small appliances (toaster, coffee maker, etc.). Turn off lights, vent fans, the stereo, etc. (but do not turn off the computers).
 
-- [ ] Remove the tube from the water jug under the sink and seal the water jug.
+- Remove the pipe and seal the water jug under the sink.
       
-- [ ] Close and secure the dayroom shutters. [Secure the lines to the cleats](https://www.animatedknots.com/cleat-hitch-halyard-knot).
+- Close and secure the dayroom shutters. [Cleat the lines](https://www.animatedknots.com/cleat-hitch-halyard-knot) so the wind doesn't tangle them.
 
-- [ ] Turn off the water pump circuit breaker. Log the water level and write a log entry for your departure. Note if the next group should plan to restock any pantry items.
+- Turn off the water pump circuit breaker. Log the water level and write a log entry for your departure. This is a good time to note if it's time to restock any essentials.
 
 - If you turned on the air conditioning, turn it off, and cover the vents. Turn off the HVAC system with the furnace master control switch.
 
-- Secure the propane: turn off at the tank, disconnect, store out of sight outside, under the air conditioning vents. Grill goes indoors.
+- Secure the propane: Store them out of sight, under the air conditioning vents outside. The propane tanks never go indoors, but the grill does.
 
-7. Close all interior doors. Ensure exterior doors are fully secured, and lock the gate behind you as you leave.
+- Close and latch *every* interior door. Ensure exterior doors are fully secured, and lock the gate behind you as you leave.
 
 ## Contact Information
 Problem reports should be addressed to Oliver Fraser: (206) 669-1886,  Email: ojf@uw.edu

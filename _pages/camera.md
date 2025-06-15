@@ -12,9 +12,6 @@ The Camera Control software is under active development. At this time you should
 
 - Images display in JS9 zoomed in at first--remember to zoom out to see the entire field.
 
-- Once you start exposing the page will essentially freeze. Commands and temperature updates won't work at first, but they are queued for when the exposure is finished. We recommend timing long exposures so you know when they'll end.
-
-
 ### Troubleshooting
 
 Restart the Evora server with:

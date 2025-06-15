@@ -4,7 +4,7 @@ permalink: /info/
 title: Information
 descrption: Information for Observers
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 The 30" Boller and Chivens telescope, focal reducing optics, and the Evora science camera produce a field of view of 8 x 8 arcminutes and a plate scale (using the default 2 x 2 binning) of 0.93 "/pixel. The telescope is a Ritchey-Chretian with an original focal ratio of f/13.5. Achromatic focal reducing optics mounted approximately one inch behind the Cassegrain focus change the effective focal ratio to f/6.7. The focal reducing optics are optimized for the wavelength range of 3650-8520 Å.
 

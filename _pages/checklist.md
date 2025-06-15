@@ -18,7 +18,7 @@ Second Note: Propane should always be kept *outside*. If you use the grill it's 
 
 1. ____ **Log the level of the water tank.** The light to the water tank room is (most inconveniently!) located on the left side of the doorway. Measure the water level by opening the valve to the gauge marked "**in. H2O**", which is located just above the water pump. The clear tubing will also match the level in the tank.
 
-2. ____ **Prepare heat and air conditioning.** Turn on the furnace with the "Master Control Switch" on the front of the furnace. The furnace will heat to 65 degrees, and turn on thermostats in each room. If you need more heat, turn the thermostat on (if necessary) and set the heat to your liking. If the daytime outside temperature is above about 85 degrees, you can turn on the air conditioner: Uncover the vents in the covered area on the outside of the building (just north of the main entrance) and then turn on the AC circuit breakers. Remember to replace the covers before you leave MRO.
+2. ____ **Prepare heat and air conditioning.** Turn on the HVAC system with the "Master Control Switch" on the front of the furnace. The furnace will heat to 65 degrees, and turn on thermostats in each room. If you need more heat, turn the thermostat on (if necessary) and set the heat to your liking. If the daytime outside temperature is above about 85 degrees, you can turn on the air conditioner: Uncover the vents in the covered area on the outside of the building (just north of the main entrance) and then turn on the AC circuit breakers. Remember to replace the covers before you leave MRO.
 
 3. ____ **Prepare the water system.**  Turn on the water pump with circuit breaker 8 on panel M. Flush both toilets, which helps avoid the dreaded sewer backup. Remember to check the level of the water tank on a daily basis so as to avoid the (also dreaded) low water alarm. Refill if the tank goes below 1/4 of the way full; instructions for filling the tank are taped to the front of the tank itself. At the end of your trip finalize your log entry and record how much water your group used.
 
@@ -38,9 +38,9 @@ Weather data for wind speed and humidity are available from the wireless station
 
 2. ____ **Setup the filter wheel.**  Under *Filters*, press *Home* to prepare the filter wheel for use. 
 
-3. ____ **Power on the Telescope.** On the right-hand control room computer, start Remmina and double-click to connect to the F1 Computer. If necessary, open *SiTech.exe* and click *SkyView*. Turn on the telescope with the key on the RA skirt (you will hear a relay *clunk*).
-
 4. ____ **Open the dome at about sunset.**   From the power unit in the northeast corner of the dome, plug the upper shutter power cable (round end) into the appropriate socket located below the dome motor; you will need to rotate the plug, as well as rotate its locking ring to fully seal it into position. Once it is connected, push and hold the upper shutter control switch to open the upper door. After the upper shutter has moved a few inches, you can open the lower shutter by plugging in its (standard 3-prong) power cord and pushing on the lower shutter power switch located on the righthand side of the dome motor until the lower shutter is fully deployed. Unplug the 3-prong power cord when the lower half is fully deployed. The upper shutter will stop automatically, at which point you can unplug its power cord. Restow the cables using the carabiners attached to each power cord. Each of the carabiners should snap onto the U bracket which is mounted above the dome shutter motor -- make sure the plugs don't hang down, otherwise they might get caught as the dome rotates.
+
+3. ____ **Turn on the telescope.**  Turn on power to the telescope's motors with the key on the RA skirt (you will hear the *clunk* of a relay). On the right-hand control room computer, start Remmina and double-click to connect to the F1 Computer. If necessary, open *SiTech.exe* and click *SkyView*.
 
 5. ____ **Initialize telescope to zenith.**  If the telescope has been properly parked, it will be pointed at zenith. If you're not sure, use the bubble level and the hand paddle to bring to telescope to zenith. Resist the urge to make small adjustments--if the telescope appears to be very near zenith, it was almost certainly properly parked! After you have confirmed that the telescope is pointed at zenith, update the telescope's coordinates by clicking *Initialize to Zenith* in *Telescope Controls* on the left-hand computer (it's okay to click on OK in the dialog box that will appear on the right hand computer). The telescope will start tracking, so unless you're about to slew to a star, click STOP.
 
@@ -68,36 +68,25 @@ Weather data for wind speed and humidity are available from the wireless station
 
 Carefully go through these lists of tasks, which keep the telescope and the observatory safe and in working order. MRO users are liable for any and all damages to the equipment caused by failure to properly follow these guidelines.
 
-1. ____ **Secure the Telescope.** It should already be secured, but double-check that telescope motor power is off (with the key, lights will be "blinky") and Evora has been shutdown. If you haven't already, now is a good time to take a copy of your data.
+1. ____ **Secure the Telescope.** You likely already turned off power to the telescope's motors, but double-check that it's off (The lights on the F1 should be "blinky") and Evora has been shutdown. If you haven't already, now is a good time to take a copy of your data.
 
-2. ____ **Clean the Observatory.** Aim to leave the observatory cleaner than you found it. If you took anything out, make sure it's put away.
-
-
-Clean the restrooms and dayroom. This is not an option! Toilets and sinks need to be cleaned before you leave. Floors need to be swept. Try to leave the observatory cleaner than it was when you arrived!
-
-5. Collect the garbage and all recyclable goods and take them back with you. You may deposit your trash and all recycling in appropriate bins located in the Physics/Astronomy loading dock. Remember that there are trash cans in the restrooms which need to be emptied!
+2. ____ **Clean the Observatory.** Aim to leave the observatory cleaner than you found it. Sweep from top to bottom. Clean up and wipe down the kitchen, the dining table, and the day room so there are no food particles left out to attract critters. Wipe down the  stove, microwave, counter, and sink. Scrub the bathrooms. Collect all the garbage and recycling to dispose of in the PAB loading dock.
 
 3.____ **Secure the Observatory.**
 
-4. Measure the water level and write a log entry for your departure. Note if the next group should plan to restock any paper products, etc.
+- Turn off power strip to the small appliances (toaster, coffee maker, etc.). Turn off lights, vent fans, the stereo, etc. (but do not turn off the computers).
 
-1. Turn off the water pump circuit breaker.
+- [ ] Remove the tube from the water jug under the sink and seal the water jug.
+      
+- [ ] Close and secure the dayroom shutters. [Secure the lines to the cleats](https://www.animatedknots.com/cleat-hitch-halyard-knot).
 
-1. Unplug small appliances (toaster, space heaters, coffee maker, etc.)
+- [ ] Turn off the water pump circuit breaker. Log the water level and write a log entry for your departure. Note if the next group should plan to restock any pantry items.
 
-1. Remove the tube from the water jug under the sink and seal the water jug.
+- If you turned on the air conditioning, turn it off, and cover the vents. Turn off the HVAC system with the furnace master control switch.
 
-2. If you turned on the air conditioning, turn it off, and cover the vents.
+- Secure the propane: turn off at the tank, disconnect, store out of sight outside, under the air conditioning vents. Grill goes indoors.
 
-4. 5. Secure the propane: turn off at the tank, disconnect, store out of sight outside, under the air conditioning vents. Grill goes indoors.
-
-6. Turn off lights, vent fans, the stereo, monitors etc. (but do not turn off the computers).
-
-7. Close all interior doors.
-
-8. Take the empty water containers back with you.
-
-9. Close the dayroom shutters, lock both exterior doors, and lock the gate behind you as you leave.
+7. Close all interior doors. Ensure exterior doors are fully secured, and lock the gate behind you as you leave.
 
 ## Contact Information
 Problem reports should be addressed to Oliver Fraser: (206) 669-1886,  Email: ojf@uw.edu

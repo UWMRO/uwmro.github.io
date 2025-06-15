@@ -5,12 +5,12 @@ nav: true
 nav_order: 5
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: Telescope Control
+    permalink: /telescope/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: Camera Control
+    permalink: /camera/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Dome Paddle
+    permalink: /paddle/
 ---

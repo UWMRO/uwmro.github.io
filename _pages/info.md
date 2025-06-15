@@ -6,7 +6,7 @@ descrption: Information for Observers
 nav: true
 nav_order: 3
 ---
-The 30" Boller and Chivens Ritchey-Chretian telescope, focal reducing optics, and the Evora science camera produce a field of view of 8 x 8 arcminutes and a plate scale (with 2 x 2 binning) of 0.93 "/pixel.
+The 30" Boller and Chivens telescope, focal reducing optics, and the Evora science camera produce a field of view of 8 x 8 arcminutes and a plate scale (using the default 2 x 2 binning) of 0.93 "/pixel. The telescope is a Ritchey-Chretian with an original focal ratio of f/13.5. Achromatic focal reducing optics mounted approximately one inch behind the Cassegrain focus change the effective focal ratio to f/6.7. The focal reducing optics are optimized for the wavelength range of 3650-8520 Å.
 
 The observatory is located approximately 9 miles West-Southwest of Ellensburg, WA at an altitude of 3930' (1198 m), a longitude of 120.7278 degrees West, and a latitude of +46.9528 degrees. It's about 3 hours from UW in Seattle to the doorway of MRO. Please note that the last 15 miles of the road are unpaved, and have potentially dangerous turns and road hazards (cows are possible!). Please drive slowly and carefully On your way, stop in Cle Elum at Owen's Meat where you'll find the finest brats and steaks outside of Texas, and the finest beef jerky on the planet. And yes, in addition to a full kitchen, MRO has a grill.
 

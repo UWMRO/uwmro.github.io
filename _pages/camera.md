@@ -4,7 +4,7 @@ permalink: /camera/
 title: Camera Control
 nav: false
 ---
-The science camera is an Andor iKon-M 934 ccd named Evora. It's typically controlled from the left-hand computer using the Camera Control webpage. [The Checklist](checklist/) steps you through initialization, operation. Remember to shut down the camera at the end of each night.
+The science camera is an Andor iKon-M 934 ccd named Evora. It's typically controlled from the left-hand computer using the Camera Control webpage. The steps to initialize and operate the camera are described in [the Checklist](../checklist/). 
 
 ### Things to Know
 The Camera Control software is under active development. At this time you should expect the following known issues:

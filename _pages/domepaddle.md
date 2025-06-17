@@ -7,6 +7,8 @@ nav: false
 ---
 The dome paddle is an Xbox 360 controller that operates the dome.
 
+![Dome Paddle button assignments](../../assets/img/DomePaddle.png)
+
 Note that nothing will move unless you are holding the appropriate trigger on the controller: right trigger for dome motion.
 
 ### Troubleshooting

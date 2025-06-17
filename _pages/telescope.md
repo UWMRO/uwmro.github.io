@@ -5,16 +5,17 @@ title: Telescope Control
 nav: false
 ---
 
-Our telescope is driven in RA and Dec by a [Sidereal Technology](https://siderealtechnology.com/) F1 Controller, the user interface of which, SiTech.exe, runs on the Windows computer in the dome. We typically access this computer using remote desktop softwarefrom the right-hand computer in the control room. Many operations are performed in the SkyView window. Focus is controlled from the [Camera Control](../camera) webpage. The steps to initialize and operate the telescope are described in [the Checklist](../checklist/). 
+The 30" is driven in RA and Dec by a [Sidereal Technology](https://siderealtechnology.com/) F1 Controller, which is controlled by the Windows computer in the dome. This computer runs SiTech.exe, which is typically accessed using remote desktop software from the right-hand computer in the control room. Telescope focus is controlled from the [Camera Control](../camera) webpage. The steps to initialize and operate the telescope are described in [the Checklist](../checklist/). 
 
 Notes on SiTech.exe: 
-- Scope tab displays paddle speed in the `Mode` box (SLEW, PAN, or GUIDE)
-- Numbers tab displays LST, as well as altitude and azimuth
-- Goto Sync tab allows the entry of an arbitrary RA & Dec, be sure to click the J2000 checkbox as appropriate.
+- The Scope tab has a button for the SkyView window and display current paddle speed in the *Mode* box: *SLEW*, *PAN*, or *GUIDE*.
+- The Numbers tab displays LST, as well as altitude and azimuth
+- Goto Sync tab allows the entry of an arbitrary RA & Dec, but note the J2000 checkbox.
+- Other operations (e.g. slewing to named objects) are performed in the SkyView window. 
 
 Notes on SkyView: 
-- Zoom1 zooms back out
-- right click allows you to move to any arbitrary ("random") area
+- Zoom1 zooms out to the entire visible sky.
+- Right-click allows you to move to any arbitrary ("random") area.
 
 ### Troubleshooting
 
@@ -25,5 +26,5 @@ The F1 will disable the telescope if any error occurs, such as an over-current o
 - In that window, click *Reset Errors* on the appropriate axis. In the example below, the Dec axis has an overcurrent error.
 - Click *Motors to Auto*.
 
-![SiTech.exe Controller Information Window](../../assets/img/ControllerInfoWindow.jpeg)
+![SiTech.exe Controller Information Window](../../assets/img/ControllerInfoWindow.png)
 

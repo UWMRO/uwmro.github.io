@@ -6,9 +6,11 @@ descrption: Information for Observers
 nav: true
 nav_order: 2
 ---
-The 30" Boller and Chivens telescope, focal reducing optics, and the Evora science camera produce a field of view of 8 x 8 arcminutes and a plate scale (using the default 2 x 2 binning) of 0.93 "/pixel. The telescope is a Ritchey-Chretian with an original focal ratio of f/13.5. Achromatic focal reducing optics mounted approximately one inch behind the Cassegrain focus change the effective focal ratio to f/6.7. The focal reducing optics are optimized for the wavelength range of 3650-8520 Å.
+MRO is located at an altitude of 3930' (1198 m), a longitude of 120.7278 degrees West, and a latitude of +46.9528 degrees. 
 
-The observatory is located approximately 9 miles West-Southwest of Ellensburg, WA at an altitude of 3930' (1198 m), a longitude of 120.7278 degrees West, and a latitude of +46.9528 degrees. It's about 3 hours from UW in Seattle to the doorway of MRO. Please note that the last 15 miles of the road are unpaved, and have potentially dangerous turns and road hazards (cows are possible!). Please drive slowly and carefully On your way, stop in Cle Elum at Owen's Meat where you'll find the finest brats and steaks outside of Texas, and the finest beef jerky on the planet. And yes, in addition to a full kitchen, MRO has a grill.
+The 30" (0.76 m) Boller and Chivens telescope is a Ritchey-Chretian design with a field of view of 8 x 8 arcminutes and a plate scale (using the default 2 x 2 binning) of 0.93 "/pixel when using the Evora science camera.
+
+The telescope has an original focal ratio of f/13.5, but achromatic focal reducing optics mounted approximately one inch behind the Cassegrain focus change the effective focal ratio to f/6.7. The focal reducing optics are optimized for the wavelength range of 3650-8520 Å.
 
 The observatory is usually open by mid-May and stays open through September. The observing class, Astro 481, has priority for much of the time from late June through the middle of August, but for other times please contact [Oliver Fraser](ojf@uw.edu) with your observing proposal!
 
@@ -28,9 +30,11 @@ The observatory is usually open by mid-May and stays open through September. The
 - In case of any accident, report it to the observatory staff.
 
 ### Things to Do
-MRO has games, books, movies, a fantastic record collection, and the internet. You can bake brownies in the 8"x8" pan, practice your origami, or catch up on your summer reading list. Hiking in the surrounding area requires hardy shoes, a buddy, and bright clothing (hunting season is late summer, but you should always be obvious to other animals, including humans!). Many of the best features of the observatory are thanks to our undergraduate users, so if something looks like it needs attention, and it's within your skill level, dive in! For examples, the path to the deck has gotten a little overgrown, but we have pruners, "rock paint" and brushes in the workshop). If you'd like a more ambitious project, Oliver has ideas!
+MRO has a full kitchen, a grill, games, books, movies, a fantastic record collection, and fast internet. You can bake brownies in the 8"x8" pan, practice your origami, or catch up on your summer reading list. Hiking in the surrounding area requires hardy shoes, a buddy, and bright clothing (hunting season is late summer, but you should always be obvious to other animals, including humans!). Many of the best features of the observatory are thanks to our undergraduate users, so if something looks like it needs attention, and it's within your skill level, dive in! If you'd like a more ambitious project, Oliver has ideas!
 
 ### Directions
+MRO is approximately 9 miles West-Southwest of Ellensburg, WA. It's about 3 hours from Seattle to the doorway of MRO, but please note that the last 15 miles of the road are unpaved, and have potentially dangerous turns and road hazards. Please drive slowly and carefully. On your way, stop in Cle Elum at Owen's Meat where you'll find the finest the finest beef jerky on the planet. 
+
 The map below shows many useful landmarks mentioned in the directions below. You may wish to supplement these directions with a better map, but do not depend on online resources as you are driving. Most people find that their phones do not have service on many parts of the route, and driving directions do not replace knowledge of the landmarks below.
 
 - [OpenStreetMap](https://www.openstreetmap.org/search?query=Manastash%20Ridge%20Observatory%2C%20WA#map=15/46.9573/-120.7179) seems to have the best road map of the area.  

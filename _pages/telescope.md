@@ -21,9 +21,9 @@ Notes on SkyView:
 
 The F1 will disable the telescope if any error occurs, such as an over-current on the RA or Dec axis. If this happens, the F1's status light for the axis blinks, SiTech.exe reports "Motors In Blinky", and the axis will need to be reset. To reset the axis:
 
-- Navivate to the Features tab in SiTech.exe.
-- Click *Controller Stuff* to open the Controller Information Window.
-- In that window, click *Reset Errors* on the appropriate axis. In the example below, the Dec axis has an overcurrent error.
+- Navigate to the Features tab in SiTech.exe.
+- Click *Controller Stuff* to open the Controller Information Window. In the example shown below, motors are disabled due to a Dec axis overcurrent error.
+- Click *Reset Errors* on the appropriate axis.
 - Click *Motors to Auto*.
 
 ![SiTech.exe Controller Information Window](../../assets/img/ControllerInfoWindow.png)

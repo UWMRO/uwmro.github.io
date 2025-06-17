@@ -2,14 +2,13 @@
 layout: page
 permalink: /domepaddle/
 title: Dome Paddle
-description: Dome Paddle Documentation
 nav: false
 ---
-The dome paddle is an Xbox 360 controller that operates the dome.
+The dome paddle is an Xbox 360 controller that operates the dome. Currently it does *not* control the telescope, but it does control the dome:
 
 ![Dome Paddle button assignments](../../assets/img/DomePaddle.png)
 
-Note that nothing will move unless you are holding the appropriate trigger on the controller: right trigger for dome motion.
+The triggers enable motion. Hold the right trigger to enable dome motion.
 
 ### Troubleshooting
 If the Xbox controller doesn't light up at all, new batteries are located in the dark room. =)
@@ -20,4 +19,4 @@ If it lights up but nothing responds, it's possible the Xbox controller has to b
 
  The Xbox controller communicates wirelessly to an Arduino via a wired (usb) Xbox receiver. The Arduino is wired to the telescope and (via a relay board) to the dome control box. Code is available [on github](https://github.com/UWMRO/TCC/tree/master/dome_paddle). Dome rotation from the control room paddle has been disabled.
 
-Not implimented yet for the F1: ~~the speed of the telescope's motion can be adjusted between "set" (slow) and "slew" (fast) using the two buttons on either side of the On button, but note that the position of the Set/Slew switch on the control room paddle may take priority.~~
+Not implimented yet: ~~the speed of the telescope's motion can be adjusted between "set" (slow) and "slew" (fast) using the two buttons on either side of the On button, but note that the position of the Set/Slew switch on the control room paddle may take priority.~~

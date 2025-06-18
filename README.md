@@ -14,13 +14,18 @@ Code syntax highlighting using [GitHub style](https://github.com/jwarby/jekyll-p
 
 "Photo formatting is made simple using [Bootstrap's grid system](https://getbootstrap.com/docs/4.4/layout/grid/). Easily create beautiful grids within your blog posts and project pages, also with support for [video](https://alshedivat.github.io/al-folio/blog/2023/videos/) and [audio](https://alshedivat.github.io/al-folio/blog/2023/audios/) embeds" [(See original README)](https://github.com/alshedivat/al-folio)
 
-Note that each deployment runs [lychee](https://lychee.cli.rs/) to check for broken links.
-
-We disabled the code formatting checker ([Prettier](https://prettier.io/)) since our goal is to make the markdown easy to edit. If it's desired to reanble it, errors from prettier are fixed by running 'npx prettier -w [file]' and pushing the new file (easiest to do on Analysis after installing the [Shopify Liquid Prettier Plugin](https://www.npmjs.com/package/@shopify/prettier-plugin-liquid)).
-
 ## Customizing
 
 For customization details please refer to [CUSTOMIZE.md](CUSTOMIZE.md).
+
+### Disabled Actions
+
+`Check for broken links` disabled since it counts any internal link as an error.
+
+`Check for broken links on site` disabled since, after clean-up, it doesn't find any serious errors but takes a long time to do so.
+
+`Prettier code formatter` disabled since our goal is to make the markdown easy to edit. If it's desired to reanble it, errors from prettier are fixed by running 'npx prettier -w [file]' and pushing the new file (easiest to do on Analysis after installing the [Shopify Liquid Prettier Plugin](https://www.npmjs.com/package/@shopify/prettier-plugin-liquid)).
+
 
 ## License
 

@@ -3,17 +3,15 @@
 # -----------------------------------------------------------------------------
 
 title: Manastash Ridge Observatory # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: 
+middle_name: 
+last_name: 
+email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Manastash Ridge Observatory (MRO) is a University of Washington Observatory used for undergraduate training and located in central Washington state.
+  Manastash Ridge Observatory (MRO) is a University of Washington Observatory used for undergraduate training.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Manastash Ridge Observatory (MRO) is a University of Washington Observatory
+keywords:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

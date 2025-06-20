@@ -7,9 +7,9 @@ nav_order: 2
 ---
 MRO is located at an altitude of 3930' (1198 m), a longitude of 120.7278 degrees West, and a latitude of +46.9528 degrees. 
 
-The 30" (0.76 m) Boller and Chivens telescope is a Ritchey-Chretian design with a field of view of 8 x 8 arcminutes and a plate scale (using the default 2 x 2 binning) of 0.93 "/pixel when using the Evora science camera.
+The 30" (0.76 m) Boller and Chivens telescope is equipped with a 6-position filter wheel and a CCD camera with a field of view of 8 x 8 arcminutes and a plate scale (using the default 2 x 2 binning) of 0.93 "/pixel.
 
-The telescope has an original focal ratio of f/13.5, but achromatic focal reducing optics mounted approximately one inch behind the Cassegrain focus change the effective focal ratio to f/6.7. The focal reducing optics are optimized for the wavelength range of 3650-8520 Å.
+The telescope is a Ritchey-Chretian design with an original focal ratio of f/13.5. Achromatic focal reducing optics mounted approximately one inch behind the Cassegrain focus change the effective focal ratio to f/6.7. The focal reducing optics are optimized for the wavelength range of 3650-8520 Å.
 
 The observatory is usually open by mid-May and stays open through September. The observing class, Astro 481, has priority for much of the time from late June through the middle of August, but for other times please contact [Oliver Fraser](ojf@uw.edu) with your observing proposal!
 

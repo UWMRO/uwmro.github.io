@@ -13,7 +13,7 @@ The Camera Control software is under active development. At this time you should
 
 - Multiple tabs do work, but do not expect the camera to do two things at once.
 
-- Every image is saved in a data directory the is assessible, on Sleipner, at [http://localhost/data/ecam](http://localhost/data/ecam).
+- Every image is saved in a data directory that is assessible, on Sleipner, at [http://localhost/data/ecam](http://localhost/data/ecam).
 
 ### Troubleshooting
 

@@ -46,7 +46,7 @@ Weather data for wind speed and humidity are available from the wireless station
 
 6. **Initialize telescope to zenith.**  Only initialize the telescope when it is parked, i.e. pointed to zenith. If the telescope needs to be manually parked, bring it to zenith using the bubble level and the hand paddle. Once parked, click *Initialize to Zenith* in *Telescope Controls* on the left-hand computer. A dialog box should appear on the right-hand computer (it's okay, but not necessary, to click OK). The RA and Dec should change to the LST and MRO's latitude. The telescope will start tracking, so unless you're about to slew to a star, click STOP. 
 
-- **At this point the telescope can move. ALWAYS announce slews and watch the telescope while it is moving!!!** , 
+    **At this point the telescope can move. ALWAYS announce slews, and watch the telescope while it is moving.**
 
 7. **Remove the telescope covers.** Move the telescope to cover position with the *Slew to Cover Position* button. Use the ladder on the southeast end of the dome floor to remove the cover to the main telescope, as well as the 6" finder on the east side of the telescope. Store both covers on the table south of the telescope pier.
 

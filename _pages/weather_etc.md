@@ -5,6 +5,8 @@ title: Weather
 description: Weather
 nav: true
 nav_order: 4
+images:
+  photoswipe: true
 ---
 [Live Weather Data](https://ambientweather.net/share/37UeMl)
 

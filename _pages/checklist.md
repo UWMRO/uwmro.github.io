@@ -22,7 +22,7 @@ Second Note: Never bring propane inside the building, it should always be kept *
 
 3. **Prepare the water system.**  Turn on the water pump with circuit breaker 8 on panel M. Flush both toilets, which helps avoid the dreaded sewer backup. Remember to check the level of the water tank on a daily basis so as to avoid the (also dreaded) low water alarm. Refill if the tank goes below 1/4 of the way full; instructions for filling the tank are taped to the front of the tank itself. At the end of your trip finalize your log entry and record how much water your group used.
 
-## Observing Checklist
+### Observing Checklist
 
 Weather conditions can make it unsafe to operate the telescope and its instruments. Cover the telescope mirrors and close the dome if any of the following weather conditions arise:
 
@@ -68,7 +68,7 @@ Weather data for wind speed and humidity are available from the wireless station
 
 15. **Close the dome.**  Rotate the dome to its home position. Plug in both cables and close the shutters. The lower shutter must be fully closed before the upper shutter reaches it. The upper shutter will stop automatically when it's fully closed. Unplug both cables. 
 
-## Departure Checklist
+### Departure Checklist
 
 Carefully go through these lists of tasks, which keep the telescope and the observatory safe and in working order. MRO users are liable for any and all damages to the equipment caused by failure to properly follow these guidelines.
 
@@ -92,5 +92,5 @@ Carefully go through these lists of tasks, which keep the telescope and the obse
 
 - Close and latch *every* interior door. Ensure exterior doors are fully secured, and lock the gate behind you as you leave.
 
-## Contact Information
+### Contact Information
 Problem reports should be addressed to Oliver Fraser: (206) 669-1886,  Email: ojf@uw.edu

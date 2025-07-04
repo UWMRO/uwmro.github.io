@@ -16,6 +16,11 @@ images:
 
 WebCams: Use the [MRO Webcam Live View page](http://depts.washington.edu/mrouser/webcams/).
 
+{% include figure.liquid path="https://depts.washington.edu/mrouser/webcams/Watertank.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="https://depts.washington.edu/mrouser/webcams/Horizon.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="https://depts.washington.edu/mrouser/webcams/Gate.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="https://depts.washington.edu/mrouser/webcams/Deck.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 ## [PhotoSwipe](https://photoswipe.com/)
 
 <div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started">

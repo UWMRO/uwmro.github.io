@@ -11,7 +11,7 @@ The 30" (0.76 m) Boller and Chivens telescope is equipped with a 6-position filt
 
 The telescope is a Ritchey-Chretian design with an original focal ratio of f/13.5. Achromatic focal reducing optics mounted approximately one inch behind the Cassegrain focus change the effective focal ratio to f/6.7. The focal reducing optics are optimized for the wavelength range of 3650-8520 Å.
 
-The observatory is usually open by mid-May and stays open through September. The observing class, Astro 481, has priority for much of the time from late June through the middle of August, but for other times please contact [Oliver Fraser](ojf@uw.edu) with your observing proposal!
+The observatory is open from May through November, with the UW's Astro 481 class taking much of the time from late June through the middle of August. Approved student groups can propose for observing time by getting in touch with Oliver Fraser via email: ojf@uw.edu.
 
 ### Safety Checklist
 - First Aid kits are located in the kitchen, on the telescope pier, and in the safety kit. The kitchen kit includes small amounts of over-the-counter pain medication, eye wash, and even a snake bite kit. The medicine cabinets in each bathroom have other supplies you may need.

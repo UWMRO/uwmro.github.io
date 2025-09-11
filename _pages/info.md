@@ -19,11 +19,11 @@ The observatory is open from May through November, with the UW's Astro 481 class
 - Keep the gate locked so animals don't get trapped within the fence, and so you can choose who visits you.
 
 - Summer is wildfire season, and it's not unusual to see smoke. If you see smoke nearby you should look up the fire's name/location and any road closure or evacuation information. If you cannot find any information about the fire, it may be new, call 911 to report it.
-  - Information on nearby fires is typically posted on Facebook by the [Kittitas County Sheriff](https://www.facebook.com/KittitasCountySheriff/) or [Yakima Valley Emergency Management](https://www.facebook.com/YakimaCountyOEM). Also check the [WA Dept. of Fish & Wildlife Wildfire Info](https://wdfw.wa.gov/about/wdfw-lands/wildfire) page.
+  - Information on nearby fires is typically posted on Facebook by the [Kittitas County Sheriff](https://www.facebook.com/KittitasCountySheriff/) or [Yakima Valley Emergency Management](https://www.facebook.com/YakimaCountyOEM). You can also check the [Map of Fire](https://www.mapofire.com/#10.28/46.9483/-120.7694) site or the [WA Dept. of Fish & Wildlife Wildfire Info](https://wdfw.wa.gov/about/wdfw-lands/wildfire) page.
 
   - If you cannot find any information at those links, the  [DNR Fire Dashboard](https://experience.arcgis.com/experience/6cdda73cf6154949a1fae76ccb2900a0) displays both [NASA/USFS FIRMS](https://firms.modaps.eosdis.nasa.gov/usfs/map/#t:tsd;d:24hrs;@-120.65,46.88,11.00z) hotspot data and will reveal the names of known fires.
 
-  - Large fires are tracked by [Inciweb](https://inciweb.wildfire.gov/) (can also check the [NWCC](https://gacc.nifc.gov/nwcc/fire_info.php)).
+  - Large fires are tracked on a map at [Inciweb](https://inciweb.wildfire.gov/) and by name at [NWCC](https://gacc.nifc.gov/nwcc/fire_info.php)).
 
   - Smoke from distant fires isn't a safety issue, but does affect observing. You can check the [Real-time Air Quality Index](http://aqicn.org/city/usa/washington/ellensburg/ruby-st/) (and forecast!) for Ellensburg.
 

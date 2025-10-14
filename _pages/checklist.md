@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-Last Updated: July 2, 2025
+Last Updated October 13, 2025
 
 This is a brief summary of the procedures you need to follow when observing at MRO. Observers should contact MRO staff prior to use of the telescope for the very latest information.
 
@@ -16,9 +16,9 @@ Note: Our septic system is a secret superhero, but its superpowers are limited t
 
 Second Note: Never bring propane inside the building, it should always be kept *outside*. It's okay to leave it attached to the grill, as long as you leave the grill outside during your stay.  
 
-1. **Log the level of the water tank.** The light to the water tank room is (most inconveniently!) located on the left side of the doorway. Measure the water level by opening the valve to the gauge marked "**in. H2O**", which is located just above the water pump. The clear tubing will also match the level in the tank.
+1. **Log the level of the water tank.** The light to the water tank room is (most inconveniently!) located on the left side of the doorway. Momentarily open the valve to the gauge marked "**in. H2O**" and measure the water level.
 
-2. **Prepare heat and air conditioning.** Turn on the HVAC system with the "Master Control Switch" on the front of the furnace. The furnace will heat to 65 degrees, and turn on thermostats in each room. If you need more heat, turn the thermostat on (if necessary) and set the heat to your liking. If the daytime outside temperature is above about 85 degrees, you can turn on the air conditioner: Uncover the vents in the covered area on the outside of the building (just north of the main entrance) and then turn on the AC circuit breakers. Remember to replace the covers before you leave MRO.
+2. **Prepare heat and air conditioning.** Turn on the air handling system with the "Master Control Switch" on the front of the furnace. This will heat the building to 65 degrees; set the thermostat in each room for additional heat as desired. The day room and control room have wall-mounted AC units that are controlled from the remote controls next to the thermostats. Depending on the season, these units can also be set to heat. 
 
 3. **Prepare the water system.**  Turn on the water pump with circuit breaker 8 on panel M. Flush both toilets, which helps avoid the dreaded sewer backup. Remember to check the level of the water tank on a daily basis so as to avoid the (also dreaded) low water alarm. Refill if the tank goes below 1/4 of the way full; instructions for filling the tank are taped to the front of the tank itself. At the end of your trip finalize your log entry and record how much water your group used.
 
@@ -40,23 +40,23 @@ Weather data for wind speed and humidity are available from the wireless station
 
 3. **Prepare the telescope control computer.**  If not already open, use Remmina on the right-hand computer to connect to the F1 computer and ensure *SiTech.exe* is running with *SkyView* displayed.
 
-4. **Open the dome around sunset.**   From the power unit in the northeast corner of the dome, plug the upper shutter power cable (round end) into the appropriate socket located below the dome motor; you will need to rotate the plug, as well as rotate its locking ring to fully seal it into position. Once it is connected, push and hold the upper shutter control switch to open the upper door. After the upper shutter has moved a few inches, you can open the lower shutter by plugging in its (standard 3-prong) power cord and pushing on the lower shutter power switch located on the righthand side of the dome motor until the lower shutter is fully deployed. Unplug the 3-prong power cord when the lower half is fully deployed. The upper shutter will stop automatically, at which point you can unplug its power cord. Restow the cables using the carabiners attached to each power cord. Each of the carabiners should snap onto the U bracket which is mounted above the dome shutter motor -- make sure the plugs don't hang down, otherwise they might get caught as the dome rotates.
+4. **Open the dome around sunset.**  Plug the shutter power cables into their sockets in the northeast corner of the dome. The upper-shutter plug is round and *keyed*, so it must be oriented correctly to plug in, and must be secured by rotating its locking barrel. The standard 3-prong plug is for the lower-shutter. Open the dome by pushing and holding the upper shutter control switch. After it has opened a few inches, the hydraulic pump will automatically turn on, and you can push the "joystick" to deploy the lower shutter. The upper shutter stops automatically, so continue to press the control switch until it is fully open. Restow the cables by clipping the carabiners to the U-bracket which is mounted above the dome shutter motor. Make sure the plugs don't hang down, otherwise they might get caught as the dome rotates.
 
-5. **Turn on the telescope.**  Turn on power to the telescope's motors with the key on the RA skirt. You will hear the *clunk* of a relay and see green power lights on the Digiplan Stepping Motor Drive and the Xbox receiver. 
+6. **Turn on the telescope.**  Turn on power to the telescope's motors with the key on the RA skirt. You will hear the *clunk* of a relay and see green power lights on the Digiplan Stepping Motor Drive and the Xbox receiver. 
 
-6. **Initialize telescope to zenith.**  Only initialize the telescope when it is parked, i.e. pointed to zenith. If the telescope needs to be manually parked, bring it to zenith using the bubble level and the hand paddle. Once parked, click *Initialize to Zenith* in *Telescope Controls* on the left-hand computer. A dialog box should appear on the right-hand computer (it's okay, but not necessary, to click OK). The RA and Dec should change to the LST and MRO's latitude. The telescope will start tracking, so unless you're about to slew to a star, click STOP. 
+7. **Initialize telescope to zenith.**  Only initialize the telescope when it is parked, i.e. pointed to zenith. If the telescope needs to be manually parked, bring it to zenith using the bubble level and the hand paddle. Once parked, click *Initialize to Zenith* in *Telescope Controls* on the left-hand computer. A dialog box should appear on the right-hand computer (it's okay, but not necessary, to click OK). The RA and Dec should change to the LST and MRO's latitude. The telescope will start tracking, so unless you're about to slew to a star, click STOP. 
 
     **At this point the telescope can move. ALWAYS announce slews, and watch the telescope while it is moving.**
 
-7. **Remove the telescope covers.** Move the telescope to cover position with the *Slew to Cover Position* button. Use the ladder on the southeast end of the dome floor to remove the cover to the main telescope, as well as the 6" finder on the east side of the telescope. Store both covers on the table south of the telescope pier.
+8. **Remove the telescope covers.** Move the telescope to cover position with the *Slew to Cover Position* button. Remove the covers to the main telescope and the 6" finder. Store both covers on the table south of the telescope pier.
 
-8. **Take bias exposures.**  A bias exposure at this time will verify that the camera has cooled down and is functioning properly. If all is well, continue.
+9. **Take bias exposures.**  A bias exposure at this time will verify that the camera has cooled down and is functioning properly. If all is well, continue.
 
-9. **Take flats.** Take sky flats pointed approximately 20 degrees east of the zenith (west for morning flats). Take dome flats in Cover Position using the incandescent desk lamp pointed down to the floor. 
+10. **Take flats.** Take sky flats pointed approximately 20 degrees east of the zenith (west for morning flats). Take dome flats in Cover Position using the incandescent desk lamp pointed down to the floor. 
 
-10. **Fine tune the telescope pointing with a bright star.** Vega is a fine target for much of the summer. Select your target in *SkyView* (Ctrl-f), and slew by (left-) clicking and choosing GoTo. It's likely that your target will not appear in the ccd's field of view (But did you remember to zoom out?), in which case you should change the paddle's speed to *Pan* (yellow light on F1), and use the finder to center the star. Once the star appears in the ccd, use SiTech.exe to center and update the telescope's pointing by selecting it again, but this time choose Sync.
+11. **Fine tune the telescope pointing with a bright star.** Vega is a fine target for much of the summer. Select your target in *SkyView* (Ctrl-f), and slew by (left-) clicking and choosing GoTo. It's likely that your target will not appear in the ccd's field of view (But did you remember to zoom out?), in which case you should change the paddle's speed to *Pan* (yellow light on F1), and use the finder to center the star. Once the star appears in the ccd, use SiTech.exe to center and update the telescope's pointing by selecting it again, but this time choose Sync.
 
-11. **Focus the telescope on a faint star.**  Move the telescope to a dimmer star in the finder, then take images and adjust focus to minimize the PSF. 9000 is a reasonable move for donuts, 3000 is best when you can see stars. 1500 is the smallest reasonable move, only for fine tuning. Note that the focus position will change as the temperature changes over the course of the night, which may necessitate refocusing.
+12. **Focus the telescope on a faint star.**  Move the telescope to a dimmer star, then take images and adjust focus to minimize the PSF. 9000 is a reasonable move for donuts, 3000 is best when you can see stars. 1500 is the smallest reasonable move, only for fine tuning. Note that the focus position will change as the temperature changes over the course of the night, which may necessitate refocusing.
 
 21. **Take your images.**  Remember to watch the lines when slewing, and go outside and check the sky on a regular basis.
 
@@ -81,16 +81,18 @@ Carefully go through these lists of tasks, which keep the telescope and the obse
 - Turn off power strip to the small appliances (toaster, coffee maker, etc.). Turn off lights, vent fans, the stereo, etc. (but do not turn off the computers).
 
 - Remove the pipe and seal the water jug under the sink.
+
+- Ensure the day room and control room AC units are off using their remote controls.
+
+- Turn off the air handling system with with the “Master Control Switch” on the front of the furnace.
+
+- Turn off the water pump circuit breaker. Momentarily open the valve to the gauge marked "**in. H2O**" and measure the water level.
+
+- Secure the propane: Store them outside, under the control room and out of sight. The propane tanks never go indoors (but the grill does).
       
 - Close and secure the dayroom shutters. [Cleat the lines](https://www.animatedknots.com/cleat-hitch-halyard-knot) so the wind doesn't tangle them.
 
-- Turn off the water pump circuit breaker. Log the water level and write a log entry for your departure. This is a good time to note if it's time to restock any essentials.
-
-- If you turned on the air conditioning, turn it off, and cover the vents. Turn off the HVAC system with the furnace master control switch.
-
-- Secure the propane: Store them out of sight, under the air conditioning vents outside. The propane tanks never go indoors, but the grill does.
-
-- Close and latch *every* interior door. Ensure exterior doors are fully secured, and lock the gate behind you as you leave.
+- Close and latch *every* interior door. Lock the exterior doors and confirm that they can't swing open. Lock the gate behind you as you leave.
 
 ### Contact Information
 Problem reports should be addressed to Oliver Fraser: (206) 669-1886,  Email: ojf@uw.edu

@@ -30,10 +30,10 @@ The observatory is open from May through November, with the UW's Astro 481 class
 - In case of any accident, report it to the observatory staff.
 
 ### Things to Do
-MRO has a full kitchen, a grill, games, books, movies, a fantastic record collection, and fast internet. You can bake brownies in the 8"x8" pan, practice your origami, or catch up on your summer reading list. Hiking in the surrounding area requires hardy shoes, a buddy, and bright clothing (hunting season is late summer, but you should always be obvious to other animals, including humans!). Many of the best features of the observatory are thanks to our undergraduate users, so if something looks like it needs attention, and it's within your skill level, dive in! If you'd like a more ambitious project, Oliver has ideas!
+MRO has a full kitchen, a grill, games, books, movies, a fantastic record collection, and fast internet. You can bake brownies in the 8"x8" pan, practice your origami, or catch up on your summer reading list. Hiking in the surrounding area requires hardy shoes, a buddy, and bright clothing (hunting season is late summer, but you should always be obvious to other animals, including humans!). Many of the best features of the observatory are thanks to our undergraduate users, so if something looks like it needs attention, and it's within your skill level, dive in!
 
 ### Directions
-MRO is approximately 9 miles West-Southwest of Ellensburg, WA. It's about 3 hours from Seattle to the doorway of MRO, but please note that the last 15 miles of the road are unpaved, and have potentially dangerous turns and road hazards. Please drive slowly and carefully. On your way, stop in Cle Elum at Owen's Meat where you'll find the finest the finest beef jerky on the planet. 
+MRO is approximately 9 miles West-Southwest of Ellensburg, WA. It's about 3 hours from Seattle to the doorway of MRO, but please note that the last 15 miles of the road are unpaved, and have potentially dangerous turns and road hazards. Please drive slowly and carefully.
 
 The map below shows many useful landmarks mentioned in the directions below. You may wish to supplement these directions with a better map, but do not depend on online resources as you are driving. Most people find that their phones do not have service on many parts of the route, and driving directions do not replace knowledge of the landmarks below.
 

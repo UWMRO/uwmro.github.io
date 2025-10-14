@@ -13,16 +13,10 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Manastash Ridge Observatory (MRO) was built in order to give the University of Washington Department of Astronomy access to the dry and dark skies available on the eastern slopes of the Cascades. Owing to its remote location, the observatory was built to accommodate groups for multiple night observing runs. It is not typically open to the public, in part due to its location on a ridge above Ellensburg, Washington.
+The University of Washington's Manastash Ridge Observatory (MRO) was dedicated by the Department of Astronomy in 1972. It is sited under the dry and dark skies of the eastern slopes of the Cascades, and is not typically open to the public, in part due to its remote location. The observatory was originally used for research, but now hosts students for training and outreach.
 
-Underneath the [Ash Dome](http://www.ashdome.com/) sits a [30" Boller and Chivens telescope](https://bollerandchivens.com/?p=1105). It would look familiar to anyone who has used MRO since it was dedicated in 1972, when observers used photographic plates to record their images. Now we rely on computers and digital CCD cameras, and the observatory is used for training our undergraduate majors.
+MRO houses a [30" Boller and Chivens telescope](https://bollerandchivens.com/?p=1105) under its [Ash Dome](http://www.ashdome.com/). A kitchen and bunks allow groups to comfortably stay for multi-night observing runs. Their photos and videos are available in the [MRO photo album](https://photos.app.goo.gl/qF1D4G1Ctw6QgSDG9), and you can hear their stories thanks to KNKX: [Manastash Ridge Observatory teaches UW students about space — and themselves](https://www.knkx.org/post/manastash-ridge-observatory-teaches-uw-students-about-space-and-themselves).
 
-- The [Best of MRO photo album](https://photos.app.goo.gl/qF1D4G1Ctw6QgSDG9) features many of their pictures!
+Data and images from the observatory's weather station and webcams are available on [the Weather page](../weather/).
 
-- The observatory is in a beautiful location, which you can see from the  [MRO Webcam Live View](http://depts.washington.edu/mrouser/webcams/).
-
-- We have worked to [reduce our power and water use](https://green.uw.edu/blog/2016-03/uws-manastash-ridge-observatory-gets-sustainability-overhaul).
-
-- Our students were featured on a KNKX's radio show: [Manastash Ridge Observatory teaches UW students about space — and themselves](https://www.knkx.org/post/manastash-ridge-observatory-teaches-uw-students-about-space-and-themselves).
-
-The observatory was built at the initiative of George Wallerstein, the first chair of the UW Department of Astronomy. Construction was funded by grants from the National Science Foundation, as well as by funds from the state of Washington. Central Washington University generously provides us with internet access via a microwave link. We also partner with the Pacific Northwest Seismic Netowrk and Earthscope Consortium. The faciilty and instrumentation is supported and continuously upgraded by the Astronomy Undergraduate Engineering Group, whose work helps ensure MRO is productive for years to come. 
+MRO was built at the initiative of George Wallerstein, the first chair of the UW Department of Astronomy. Construction was funded by grants from the National Science Foundation, as well as by funds from the State of Washington. Central Washington University generously supports a microwave link that provides internet access. We also partner with the Pacific Northwest Seismic Network and Earthscope Consortium. The facility and instrumentation is supported and continuously upgraded by the UW's Astronomy Undergraduate Engineering Group, whose work helps ensure MRO is productive for years to come. 

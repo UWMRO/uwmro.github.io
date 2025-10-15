@@ -21,8 +21,8 @@ MRO houses a [30" Boller and Chivens telescope](https://bollerandchivens.com/?p=
 
 - Data and images from the observatory's weather station and webcams are available on [the Weather page](../weather/).
 
-- You can hear our students stories thanks to KNKX: [Manastash Ridge Observatory teaches UW students about space — and themselves](https://www.knkx.org/post/manastash-ridge-observatory-teaches-uw-students-about-space-and-themselves).
+- Hear our students stories, thanks to KNKX: [Manastash Ridge Observatory teaches UW students about space — and themselves](https://www.knkx.org/post/manastash-ridge-observatory-teaches-uw-students-about-space-and-themselves).
 
-- You can support the observatory by [making a gift](https://www.washington.edu/giving/make-a-gift/?source_typ=3&source=FND-126707&ifGuid=519dc0c5-629c-45f1-b171-53435c9edd29).
+- Support our mission of training and outreach by [making a gift](https://www.washington.edu/giving/make-a-gift/?source_typ=3&source=FND-126707&ifGuid=519dc0c5-629c-45f1-b171-53435c9edd29).
 
 MRO was built at the initiative of George Wallerstein, the first chair of the UW Department of Astronomy. Construction was funded by grants from the National Science Foundation, as well as by funds from the State of Washington. Central Washington University generously supports a microwave link that provides internet access. We also partner with the Pacific Northwest Seismic Network and Earthscope Consortium. The facility and instrumentation is supported and continuously upgraded by the UW's Astronomy Undergraduate Engineering Group, whose work helps ensure MRO is productive for years to come. 

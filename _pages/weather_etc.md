@@ -2,7 +2,6 @@
 layout: page
 permalink: /weather/
 title: Weather
-description: Weather
 nav: true
 nav_order: 4
 ---
@@ -11,6 +10,8 @@ nav_order: 4
 [Weather Underground](https://www.wunderground.com/dashboard/pws/KWAELLEN214)
 
 [MRO Clear Sky Chart](http://www.cleardarksky.com/c/ManastOBWAkey.html)
+
+[Clear Outside Forecast](https://clearoutside.com/forecast/46.95/-120.72)
 
 ### Webcams
 {% include figure.liquid path="https://depts.washington.edu/mrouser/webcams/Watertank.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}

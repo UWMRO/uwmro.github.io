@@ -38,7 +38,7 @@ Weather data for wind speed and humidity are available from the wireless station
 
 2. **Setup the filter wheel.**  Under *Filters*, press *Home* to prepare the filter wheel for use.
 
-3. **Prepare the telescope control computer.**  If not already open, use Remmina on the right-hand computer to connect to the F1 computer and ensure *SiTech.exe* is running with *SkyView* displayed.
+3. **Prepare the telescope control computer.**  If not already open, run *SiTech.exe* and make sure *SkyView* is displayed.
 
 4. **Open the dome around sunset.**  Plug the shutter power cables into their sockets in the northeast corner of the dome. The upper-shutter plug is round and *keyed*, so it must be oriented correctly to plug in, and must be secured by rotating its locking barrel. The standard 3-prong plug is for the lower-shutter. Open the dome by pushing and holding the upper shutter control switch. After it has opened a few inches, the hydraulic pump will automatically turn on, and you can push the "joystick" to deploy the lower shutter. The upper shutter stops automatically, so continue to press the control switch until it is fully open. Restow the cables by clipping the carabiners to the U-bracket which is mounted above the dome shutter motor. Make sure the plugs don't hang down, otherwise they might get caught as the dome rotates.
 

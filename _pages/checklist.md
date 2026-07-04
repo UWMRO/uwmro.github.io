@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-Last Updated October 13, 2025
+Last Updated July 4, 2026
 
 This is a brief summary of the procedures you need to follow when observing at MRO. Observers should contact MRO staff prior to use of the telescope for the very latest information.
 
@@ -18,9 +18,9 @@ Second Note: Never bring propane inside the building, it should always be kept *
 
 1. **Log the level of the water tank.** The light to the water tank room is (most inconveniently!) located on the left side of the doorway. Momentarily open the valve to the gauge marked "**in. H2O**" and measure the water level.
 
-2. **Prepare heat and air conditioning.** Turn on the air handling system with the "Master Control Switch" on the front of the furnace. This will heat the building to 65 degrees; set the thermostat in each room for additional heat as desired. The day room and control room have wall-mounted AC units that are controlled from the remote controls next to the thermostats. Depending on the season, these units can also be set to heat. 
-
-3. **Prepare the water system.**  Turn on the water pump with circuit breaker 8 on panel M. Flush both toilets, which helps avoid the dreaded sewer backup. Remember to check the level of the water tank on a daily basis so as to avoid the (also dreaded) low water alarm. Refill if the tank goes below 1/4 of the way full; instructions for filling the tank are taped to the front of the tank itself. At the end of your trip finalize your log entry and record how much water your group used.
+2. **Prepare the water system.**  Turn on the water pump--the switch is high on the wall opposite the furnace. Flush both toilets, which helps avoid the dreaded sewer backup. Remember to check the level of the water tank on a daily basis so as to avoid the (also dreaded) low water alarm. Refill if the tank goes below 1/4 of the way full; instructions for filling the tank are taped to the front of the tank itself. At the end of your trip finalize your log entry and record how much water your group used.
+ 
+3. **Prepare heat and air conditioning.** Turn on the air handling system with the "Master Control Switch" on the front of the furnace. This will heat the building to 65 degrees; set the thermostat in each room for additional heat as desired. The day room and control room have wall-mounted AC units that are controlled from the remote controls next to the thermostats. Depending on the season, these units can also be set to heat.
 
 ### Observing Checklist
 
@@ -44,7 +44,7 @@ Weather data for wind speed and humidity are available from the wireless station
 
 6. **Turn on the telescope.**  Turn on power to the telescope's motors with the key on the RA skirt. You will hear the *clunk* of a relay and see green power lights on the Digiplan Stepping Motor Drive and the Xbox receiver. 
 
-7. **Initialize telescope to zenith.**  Only initialize the telescope when it is parked, i.e. pointed to zenith. If the telescope needs to be manually parked, bring it to zenith using the bubble level and the hand paddle. Once parked, click *Initialize to Zenith* in *Telescope Controls* on the left-hand computer. A dialog box should appear on the right-hand computer (it's okay, but not necessary, to click OK). The RA and Dec should change to the LST and MRO's latitude. The telescope will start tracking, so unless you're about to slew to a star, click STOP. 
+7. **Initialize telescope to zenith.**  Only initialize the telescope when it is pointed to zenith, i.e. parked. If the telescope needs to be manually parked, bring it to zenith using the bubble level (stored in the dome desk's top drawer) and the hand paddle. Once at zenith, click *Initialize to Zenith* in *Telescope Controls* on the left-hand computer. A dialog box should appear on the right-hand computer (it's okay, but not necessary, to click OK). The RA and Dec should change to the LST and MRO's latitude. The telescope will start tracking, so unless you're about to slew to a star, click STOP. 
 
     **At this point the telescope can move. ALWAYS announce slews, and watch the telescope while it is moving.**
 

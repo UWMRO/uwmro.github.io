@@ -7,6 +7,8 @@ nav_order: 4
 ---
 [Live Weather Data](https://ambientweather.net/share/37UeMl)
 
+[MRO Air Quality Sensor](https://io.adafruit.com/mrouser/dashboards/mro-air-q-sensors)
+
 [Weather Underground](https://www.wunderground.com/dashboard/pws/KWAELLEN214)
 
 [MRO Clear Sky Chart](http://www.cleardarksky.com/c/ManastOBWAkey.html)

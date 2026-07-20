@@ -25,7 +25,7 @@ The observatory is open from May through November, with the UW's Astro 481 class
 
   - Large fires are tracked on a map at [Inciweb](https://inciweb.wildfire.gov/) and by name at [NWCC](https://gacc.nifc.gov/nwcc/fire_info.php)).
 
-  - Smoke from distant fires isn't a safety issue, but does affect observing. You can check the [Real-time Air Quality Index](http://aqicn.org/city/usa/washington/ellensburg/ruby-st/) (and forecast!) for Ellensburg.
+  - Smoke from distant fires isn't a safety issue, but does affect observing. You can monitor the [MRO Air Quality Sensor](https://io.adafruit.com/mrouser/dashboards/mro-air-q-sensors) and even get a forecast from the [Ellensburg Air Quality Index](http://aqicn.org/city/usa/washington/ellensburg/ruby-st/).
 
 - In case of any accident, report it to the observatory staff.
 

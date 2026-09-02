@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-Last Updated July 4, 2026
+Last Updated September 2, 2026
 
 This is a brief summary of the procedures you need to follow when observing at MRO. Observers should contact MRO staff prior to use of the telescope for the very latest information.
 
@@ -20,7 +20,7 @@ Second Note: Never bring propane inside the building, it should always be kept *
 
 2. **Prepare the water system.**  Turn on the water pump--the switch is high on the wall opposite the furnace. Flush both toilets, which helps avoid the dreaded sewer backup. Remember to check the level of the water tank on a daily basis so as to avoid the (also dreaded) low water alarm. Refill if the tank goes below 1/4 of the way full; instructions for filling the tank are taped to the front of the tank itself. At the end of your trip finalize your log entry and record how much water your group used.
  
-3. **Prepare heat and air conditioning.** Turn on the air handling system with the "Master Control Switch" on the front of the furnace. This will heat the building to 65 degrees; set the thermostat in each room for additional heat as desired. The day room and control room have wall-mounted AC units that are controlled from the remote controls next to the thermostats. Depending on the season, these units can also be set to heat.
+3. **Prepare heat and air conditioning.** Turn on the air handling system with the "Master Control Switch" on the front of the furnace. This will heat the building to 65 degrees; set the thermostat in each room for additional heat as desired. The day room and control room have wall-mounted units that are controlled from the remote controls next to the thermostats. Depending on the season, these units could be set for AC or heat.
 
 ### Observing Checklist
 
@@ -54,7 +54,7 @@ Weather data for wind speed and humidity are available from the wireless station
 
 10. **Take flats.** Take sky flats pointed approximately 20 degrees east of the zenith (west for morning flats). Take dome flats in Cover Position using the incandescent desk lamp pointed down to the floor. 
 
-11. **Fine tune the telescope pointing with a bright star.** Vega is a fine target for much of the summer. Select your target in *SkyView* (Ctrl-f), and slew by (left-) clicking and choosing GoTo. It's likely that your target will not appear in the ccd's field of view (But did you remember to zoom out?), in which case you should change the paddle's speed to *Pan* (yellow light on F1), and use the finder to center the star. Once the star appears in the ccd, use SiTech.exe to center and update the telescope's pointing by selecting it again, but this time choose Sync.
+11. **Fine tune the telescope pointing with a bright star.** Vega is a fine target for much of the summer. Select your target in *SkyView* (Ctrl-f), and slew by (left-) clicking and choosing GoTo. It's likely that your target will not appear in the ccd's field of view (did you remember to zoom out?). If not, set the paddle's speed to *Pan* (yellow light on F1) and use the finder to center the star. Once the star appears in the ccd, use SiTech.exe to center and update the telescope's pointing by selecting it again, but this time choose Sync.
 
 12. **Focus the telescope on a faint star.**  Move the telescope to a dimmer star, then take images and adjust focus to minimize the PSF. 9000 is a reasonable move for donuts, 3000 is best when you can see stars. 1500 is the smallest reasonable move, only for fine tuning. Note that the focus position will change as the temperature changes over the course of the night, which may necessitate refocusing.
 
@@ -86,9 +86,9 @@ Carefully go through these lists of tasks, which keep the telescope and the obse
 
 - Turn off the air handling system with with the “Master Control Switch” on the front of the furnace.
 
-- Turn off the water pump circuit breaker. Momentarily open the valve to the gauge marked "**in. H2O**" and measure the water level.
+- Turn off the water pump--the switch is high on the wall opposite the furnace. Momentarily open the valve to the gauge marked "**in. H2O**" and measure the water level.
 
-- Secure the propane: Store them outside, under the control room and out of sight. The propane tanks never go indoors (but the grill does).
+- Secure the propane: Outside, under the control room and out of sight. The propane tanks never go indoors (but the grill does).
       
 - Close and secure the dayroom shutters. [Cleat the lines](https://www.animatedknots.com/cleat-hitch-halyard-knot) so the wind doesn't tangle them.
 

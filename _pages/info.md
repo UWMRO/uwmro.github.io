@@ -7,7 +7,7 @@ nav_order: 2
 ---
 MRO is located at an altitude of 3930' (1198 m), a longitude of 120.7278 degrees West, and a latitude of +46.9528 degrees. 
 
-The 30" (0.76 m) Boller and Chivens telescope is equipped with a 6-position filter wheel and a CCD camera with a field of view of 8 x 8 arcminutes and a plate scale (using the default 2 x 2 binning) of 0.93 "/pixel.
+The 30" (0.76 m) Boller and Chivens telescope is equipped with a 6-position filter wheel and a CCD camera with a field of view of 8 x 8 arcminutes and a plate scale of 0.93 " per 2 x 2 binned pixel.
 
 The telescope is a Ritchey-Chretian design with an original focal ratio of f/13.5. Achromatic focal reducing optics mounted approximately one inch behind the Cassegrain focus change the effective focal ratio to f/6.7. The focal reducing optics are optimized for the wavelength range of 3650-8520 Å.
 
@@ -18,14 +18,9 @@ The observatory is open from May through November, with the UW's Astro 481 class
 
 - Keep the gate locked so animals don't get trapped within the fence, and so you can choose who visits you.
 
-- Summer is wildfire season, and it's not unusual to see smoke. If you see smoke nearby you should look up the fire's name/location and any road closure or evacuation information. If you cannot find any information about the fire, it may be new, call 911 to report it.
-  - Information on nearby fires is typically posted on Facebook by the [Kittitas County Sheriff](https://www.facebook.com/KittitasCountySheriff/) or [Yakima Valley Emergency Management](https://www.facebook.com/YakimaCountyOEM). You can also check the [Map of Fire](https://www.mapofire.com/#10.28/46.9483/-120.7694) site or the [WA Dept. of Fish & Wildlife Wildfire Info](https://wdfw.wa.gov/about/wdfw-lands/wildfire) page.
+- Summer is wildfire season, and it's not unusual to see smoke. If you see smoke nearby you should check [Watch Duty](https://app.watchduty.org/). If you cannot find any information about the fire, it may be new, call 911 to report it.
 
-  - If you cannot find any information at those links, the  [DNR Fire Dashboard](https://experience.arcgis.com/experience/6cdda73cf6154949a1fae76ccb2900a0) displays both [NASA/USFS FIRMS](https://firms.modaps.eosdis.nasa.gov/usfs/map/#t:tsd;d:24hrs;@-120.65,46.88,11.00z) hotspot data and will reveal the names of known fires.
-
-  - Large fires are tracked on a map at [Inciweb](https://inciweb.wildfire.gov/) and by name at [NWCC](https://gacc.nifc.gov/nwcc/fire_info.php)).
-
-  - Smoke from distant fires isn't a safety issue, but does affect observing. You can monitor the [MRO Air Quality Sensor](https://io.adafruit.com/mrouser/dashboards/mro-air-q-sensors) and even get a forecast from the [Ellensburg Air Quality Index](http://aqicn.org/city/usa/washington/ellensburg/ruby-st/).
+- Smoke from distant fires isn't a safety issue, but does affect observing. You can get forecasts from the [Washington Smoke Blog](https://wasmoke.blogspot.com) and from the [Ellensburg Air Quality Index](http://aqicn.org/city/usa/washington/ellensburg/ruby-st/).
 
 - In case of any accident, report it to the observatory staff.
 

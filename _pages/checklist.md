@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-Last Updated September 2, 2026
+Last Updated October 13, 2026
 
 This is a brief summary of the procedures you need to follow when observing at MRO. Observers should contact MRO staff prior to use of the telescope for the very latest information.
 
@@ -44,7 +44,7 @@ Weather data for wind speed and humidity are available from the wireless station
 
 6. **Turn on the telescope.**  Turn on power to the telescope's motors with the key on the RA skirt. You will hear the *clunk* of a relay and see green power lights on the Digiplan Stepping Motor Drive and the Xbox receiver. 
 
-7. **Initialize telescope to zenith.**  Only initialize the telescope when it is pointed to zenith, i.e. parked. If the telescope needs to be manually parked, bring it to zenith using the bubble level and the hand paddle (the bubble level is stored in the top drawer of the desk). Once at zenith, click *Initialize to Zenith* in *Telescope Controls* on the left-hand computer. A dialog box should appear on the right-hand computer (it's okay, but not necessary, to click OK). The RA and Dec should change to the LST and MRO's latitude. The telescope will start tracking, so unless you're about to slew to a star, click STOP. 
+7. **Initialize telescope to zenith.**  Only initialize the telescope when it is pointed to zenith, i.e. parked. If the telescope needs to be manually parked, bring it to zenith using the bubble level and the hand paddle (the bubble level is stored in the top-left drawer of the desk). Once at zenith, click *Initialize to Zenith* in *Telescope Controls* on the left-hand computer. A dialog box should appear on the right-hand computer (it's okay, but not necessary, to click OK). The RA and Dec should change to the LST and MRO's latitude. The telescope will start tracking, so unless you're about to slew to a star, click STOP. 
 
     **At this point the telescope can move. ALWAYS announce slews, and watch the telescope while it is moving.**
 
